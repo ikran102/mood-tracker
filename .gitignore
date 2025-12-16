@@ -1,3 +1,3 @@
-venv/
+moods.csv
 __pycache__/
-.env
+venv/
